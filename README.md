@@ -19,4 +19,4 @@ Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
 
-test
+[figma](https://www.figma.com/file/MwXLJnjtQr5ytg6PGP2ZaN/Exercise-Tracking-App?node-id=0%3A1&t=ajNkrmzmzah0omZj-1)
